@@ -1,6 +1,7 @@
 # HelloKubernetes_AKS
 Mange Kubernetes with AKS
-
+![Kube architecture][logo]
+[logo]: https://github.com/ramiljoaquin/HelloKubernetes_AKS/blob/master/assets/KubeArchitecture.png
 
 # Learning objectives
 Deployment models
