@@ -1,5 +1,4 @@
-# HelloKubernetes_AKS
-Mange Kubernetes with AKS
+# Mange Kubernetes with AKS
 
 ![Kube architecture][logo]
 
